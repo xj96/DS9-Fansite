@@ -1,11 +1,14 @@
 import React from "react";
-import "./styles/App.css";
+import "./App.css";
+import Header from "./components/Header/";
+import EmployeeCard from "./components/EmployeeListCard/";
+import Wrapper from "./components/Wrapper/"
 
 function App() {
   return (
-    <div>
-      <p style={{textAlign:"center"}}>Hello World</p>
-    </div>
+    <Wrapper>
+      <Header/>
+    </Wrapper>
   );
 }
 
