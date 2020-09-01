@@ -1,0 +1,29 @@
+.list-image {
+  width: 50px;
+  height: 50px;
+}
+
+.detail-card {
+  height: 285px;
+  overflow: scroll;
+}
+
+.list-title {
+  position: inherit;
+}
+
+div.media-body:hover {
+  color: #f2c300;
+}
+
+div.media-body:active {
+  color: #f2c300;
+}
+
+div.list-item:hover {
+  background-color: #333;
+}
+
+div.list-item:active {
+  background-color: #333;
+}

@@ -1,24 +1,24 @@
 import React from "react";
-import logo from "../../images/HotBurger.png";
+import logo from "../../images/1280px-DS9_Titel.svg.png";
 import "./style.css"
 
 function Header() {
   return (
-    <div>
+    <div className="container">
       <header>
         {/* logo image */}
-        <div>
+        <div className="col-12">
           <img
             src={logo}
-            alt="Hot Burger Logo"
-            width="100px"
-            height="100px"
+            alt="DS9 Logo"
+            width="720px"
+            height="100%"
           ></img>
         </div>
 
         {/* title of the company */}
         <div>
-          <h1>Hot Burger</h1>
+          <h1>Star-Trek: DS9 Officer's List & Notable People</h1>
         </div>
       </header>
     </div>

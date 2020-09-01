@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Benjamin Sisko",
+    "role": "Starfleet Captain",
+    "image": "employeedirectory/src/images/Benjamin-Sisko.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Jake Sisko",
+    "role": "Journalist",
+    "image": "employeedirectory/src/images/Jake-Sisko.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Odo",
+    "role": "Constable",
+    "image": "employeedirectory/src/images/Odo.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Kira Nerys",
+    "role": "Colonel",
+    "image": "employeedirectory/src/images/Kira-Nerys.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Jadzia Dax",
+    "role": "Lieutenant Commander",
+    "image": "employeedirectory/src/images/Jadzia-Dax.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Worf, Son of Mogh",
+    "role": "Lieutenant Commander",
+    "image": "employeedirectory/src/images/Worf.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Julian Bashir",
+    "role": "Chief Medical Officer",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Ezri Dax",
+    "role": "Lieutenant Counselor",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "name": "Miles Obrien",
+    "role": "Chief Operations Officer",
+    "image": "employeedirectory/src/images/Miles-Obrien.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Quark",
+    "role": "Owner of Quark's Bar, Grill, Gaming House and Holosuite Arcade",
+    "image": "employeedirectory/src/images/Quark.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Rom",
+    "role": "Crewman",
+    "image": "employeedirectory/src/images/Rom.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Nog",
+    "role": "Ensign",
+    "image": "employeedirectory/src/images/Nog.jpeg"
+  }
+]

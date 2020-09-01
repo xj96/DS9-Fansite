@@ -1,14 +1,14 @@
 import React from "react";
 import "./App.css";
 import Header from "./components/Header/";
-import EmployeeCard from "./components/EmployeeListCard/";
-import Wrapper from "./components/Wrapper/"
+import MainSection from "./components/MainSection/Components"
 
 function App() {
   return (
-    <Wrapper>
+    <React.Fragment>
       <Header/>
-    </Wrapper>
+      <MainSection/>
+    </React.Fragment>
   );
 }
 
